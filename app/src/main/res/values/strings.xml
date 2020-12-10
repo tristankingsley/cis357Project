@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">CIS357Project</string>
+    <string name="title_text">Where\'d I Park?</string>
+    <string name="updatebutton_text">Update Location</string>
+    <string name="savebutton_text">Save Location</string>
+    <string name="copybutton_text">Copy Location</string>
+    <string name="latitudelabel_text">Latitude:</string>
+    <string name="longitudelabel_text">Longitude:</string>
+    <string name="latvalue_text">LATVALUE</string>
+    <string name="longvalue_text">LONGVALUE</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="main_fragment_label">Main Fragment</string>
+    <string name="history_fragment_label">History Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="menu_settings">Settings</string>
+
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="history_text">History</string>
+    <string name="addresslabel_text">Address:</string>
+    <string name="addressvalue_text">\?</string>
+    <string name="openlabel_text">Open In Maps</string>
+</resources>
