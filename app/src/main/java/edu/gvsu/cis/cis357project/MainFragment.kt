@@ -54,8 +54,8 @@ class MainFragment : Fragment() {
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
-        // Initialize the SDK
-        this.context?.let { Places.initialize(it, "YOUR_KEY_HERE") }
+        // If you want to initialize the Places SDK, you would do so like this:
+        //this.context?.let { Places.initialize(it, "YOUR_KEY_HERE") }
 
         val updateButton = view.findViewById<Button>(R.id.updatelocation_button)
         val saveButton = view.findViewById<Button>(R.id.savelocation_button)
